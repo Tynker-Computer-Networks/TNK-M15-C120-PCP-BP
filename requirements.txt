@@ -1,0 +1,13 @@
+cachetools==5.3.1
+certifi==2023.7.22
+charset-normalizer==3.3.0
+cssselect==1.2.0
+cssutils==2.7.1
+email-to==0.1.0
+idna==3.4
+lxml==4.9.3
+Markdown==3.5
+premailer==3.10.0
+requests==2.31.0
+tk==0.1.0
+urllib3==2.0.6
