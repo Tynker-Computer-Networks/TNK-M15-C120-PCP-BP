@@ -5,7 +5,7 @@ Secret Santa
 In this activity, you will attach the files and send reminder mails for the secret santa gifting game.
 
 
-<img src= "https://s3.amazonaws.com/media-p.slid.es/uploads/1525749/images/10961791/C120PCP.gif" width = "521" height = "281">
+<img src= "https://s3.amazonaws.com/media-p.slid.es/uploads/1525749/images/10961791/C120PCP.gif" width = "50%" height = "auto">
 
 
 Follow the given steps to complete this activity:
